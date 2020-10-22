@@ -3,7 +3,7 @@
 
 ## Problema:
 
-Faça um programa em linguagem C que represente internamente um dado grafo simples e não orientado, G = (V, E), como listas de adjacências.
+Faça um programa em linguagem C que represente internamente um dado **grafo simples e não orientado, G = (V, E)**, como listas de adjacências.
 Por exemplo, considere o grafo ilustrado na figura abaixo, você poderá optar por
 implementar um vetor estático de uma estrutura que contem o endereço do início de
 cada lista de adjacência, ou optar pela implementação de uma lista ligada (vertical)
@@ -23,7 +23,7 @@ O programa deve conter as seguintes opções de menu:
 
 
 
-Lista de itens que serão avaliados:
+**Lista de itens que serão avaliados:**
 
 * Utilizou estrutura de dados em listas de adjacências (alocação dinâmica de memória) para
 representar o grafo?
@@ -33,11 +33,11 @@ identificação repetida?
 * Visualiza-se corretamente o grafo?
 * A entrada de dados e saída de dados é amigável?
 * Implementou funções parametrizadas?
-    Ex. inserirVertice(vert), inserirAresta(vert1,vert2).
+    **Ex. inserirVertice(vert), inserirAresta(vert1,vert2).**
 * O programa travou em tempo de execução?
 
 
-Outro exemplo de grafo de entrada para teste do programa:
+**Outro exemplo de grafo de entrada para teste do programa:**
 
 <p align="center">
     <img src="https://i.imgur.com/BBuNHH5.png" />
